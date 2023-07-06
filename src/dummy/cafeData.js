@@ -4,6 +4,7 @@ export const cafeData = [
     name: "1번 카페",
     adress: "서울특별시 강남구 강남로 1",
     phone: "02-000-0001",
+    tags: ["분위기 좋은", "카공"],
     menu: [
       { name: "아메리카노", price: "5000원" },
       { name: "카페라떼", price: "5000원" },
@@ -21,6 +22,7 @@ export const cafeData = [
     name: "2번 카페",
     adress: "서울특별시 강남구 강남로 2",
     phone: "02-000-0002",
+    tags: ["조용한", "카공"],
     menu: [
       { name: "아메리카노", price: "5000원" },
       { name: "카페라떼", price: "5000원" },
@@ -38,6 +40,7 @@ export const cafeData = [
     name: "3번 카페",
     adress: "서울특별시 강남구 강남로 3",
     phone: "02-000-0003",
+    tags: ["힙한", "카공"],
     menu: [
       { name: "아메리카노", price: "5000원" },
       { name: "카페라떼", price: "5000원" },
@@ -55,6 +58,7 @@ export const cafeData = [
     name: "4번 카페",
     adress: "서울특별시 강남구 강남로 4",
     phone: "02-000-0004",
+    tags: ["앤틱한", "카공"],
     menu: [
       { name: "아메리카노", price: "5000원" },
       { name: "카페라떼", price: "5000원" },
@@ -72,6 +76,7 @@ export const cafeData = [
     name: "5번 카페",
     adress: "서울특별시 강남구 강남로 5",
     phone: "02-000-0005",
+    tags: ["스타일리시한", "카공"],
     menu: [
       { name: "아메리카노", price: "5000원" },
       { name: "카페라떼", price: "5000원" },
@@ -89,6 +94,7 @@ export const cafeData = [
     name: "6번 카페",
     adress: "서울특별시 강남구 강남로 6",
     phone: "02-000-0006",
+    tags: ["모던한", "카공"],
     menu: [
       { name: "아메리카노", price: "5000원" },
       { name: "카페라떼", price: "5000원" },
